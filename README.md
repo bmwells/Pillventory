@@ -6,7 +6,7 @@ Pillventory is an Android mobile application aimed at that pharmaceutical indust
 
 ### Features
 
-* Integrates OpenCV to quckly count pills in images 
+* Integrates OpenCV to quickly count pills in images 
 * Capture images with camera or import pictures from gallery
 * Change pill indicator color and shape
 * Toggle pill counter indicator appearance

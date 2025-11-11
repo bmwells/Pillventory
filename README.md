@@ -25,11 +25,11 @@ This Android app simplifies the process of counting pills and managing medicatio
 
   ## App Screenshots
 <div align="center">
-  <img src="1.png" alt="Screenshot 1" width="150">
-  <img src="2.png" alt="Screenshot 2" width="150">
-  <img src="3.png" alt="Screenshot 3" width="150">
-  <img src="4.png" alt="Screenshot 4" width="150">
-  <img src="5.png" alt="Screenshot 5" width="150">
+  <img src="screens/1.png" alt="Screenshot 1" width="150">
+  <img src="screens/2.png" alt="Screenshot 2" width="150">
+  <img src="screens/3.png" alt="Screenshot 3" width="150">
+  <img src="screens/4.png" alt="Screenshot 4" width="150">
+  <img src="screens/5.png" alt="Screenshot 5" width="150">
 </div>
 
 ## Getting Started

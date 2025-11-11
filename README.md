@@ -23,13 +23,13 @@ This Android app simplifies the process of counting pills and managing medicatio
 - Firebase integration:
   - Securely store and sync pill count data across multiple devices for seamless access.
 
-  ## App Screenshots
+## App Screenshots
 <div align="center">
-  <img src="screens/1.png" alt="Screenshot 1" width="150">
-  <img src="screens/2.png" alt="Screenshot 2" width="150">
-  <img src="screens/3.png" alt="Screenshot 3" width="150">
-  <img src="screens/4.png" alt="Screenshot 4" width="150">
-  <img src="screens/5.png" alt="Screenshot 5" width="150">
+  <img src="screens/1.png" alt="Screenshot 1" width="150" height="900">
+  <img src="screens/2.png" alt="Screenshot 2" width="150" height="900">
+  <img src="screens/3.png" alt="Screenshot 3" width="150" height="900">
+  <img src="screens/4.png" alt="Screenshot 4" width="150" height="900">
+  <img src="screens/5.png" alt="Screenshot 5" width="150" height="900">
 </div>
 
 ## Getting Started

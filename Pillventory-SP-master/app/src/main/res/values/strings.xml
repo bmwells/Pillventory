@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Pillventory</string>
+    <string name="title">Dev Environment</string>
+    <string name="back_button">Back</string>
+    <string name="add_pill">Add Pill Count</string>
+    <string name="get_pill">Get Pill Count</string>
+    <string name="enter_pill">Enter pill name</string>
+    <string name="enter_count">Enter pill count</string>
+    <string name="description">Description</string>
+    <string name="close_tab">Close tab button</string>
+
+    <!-- General Screen Titles -->
+    <string name="landing_title">Landing</string>
+    <string name="camera_title">Camera</string>
+    <string name="add_tags_title">Add Tags</string>
+    <string name="signup_title">Create Account</string>
+    <string name="login_title">Login</string>
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="inventory_title">Inventory</string>
+    <string name="calculator_title">Calculator</string>
+    <string name="folder_title">Folders</string>
+    <string name="filter_title">Filter Pill Counts</string>
+    <string name="manage_tags_title">Manage Tags</string>
+    <string name="manage_tags_add_title">Add</string>
+    <string name="settings_title">Settings</string>
+    <string name="profile_title">Profile Settings</string>
+    <string name="delete_acc_title">Delete Account</string>
+    <string name="camera_settings_title">Camera Settings</string>
+    <string name="contact_title">Contact</string>
+    <string name="help_title">Help</string>
+    <string name="patch_notes_title">Patch Notes</string>
+    <string name="bug_report">Report Bug</string>
+    <string name="metrics_title">Metrics</string>
+
+
+
+    <!-- Camera Text -->
+    <string name="gallery">Gallery</string>
+    <string name="gallery_desc">Access Gallery button</string>
+    <string name="upload">Upload</string>
+    <string name="upload_desc">Upload image button</string>
+    <string name="pill_count">Pill Count:</string>
+    <string name="add_tag_desc">Add tag button</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="save_changes_desc">Save changes to pill count button</string>
+
+    <!-- Inventory Text -->
+    <string name="tag_management_desc">Tag management button</string>
+    <string name="filter_desc">Filter pill counts button</string>
+    <string name="filter_pill">Filter Pill Counts</string>
+    <string name="by_tag">By Tags</string>
+    <string name="by_date">By Date</string>
+    <string name="clear">Clear</string>
+    <string name="clear_desc">Clear button</string>
+    <string name="apply">Apply</string>
+    <string name="apply_desc">Apply button</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="search">Search</string>
+    <string name="search_desc">Search tags button</string>
+    <string name="add">Add</string>
+    <string name="add_desc">Add tags button</string>
+    <string name="share_via">Share via</string>
+
+    <!-- Settings Text -->
+    <string name="faq">Frequently Asked Questions</string>
+    <string name="tutorial">Camera Tutorial</string>
+    <string name="save">Save</string>
+    <string name="user_acc">User account</string>
+    <string name="discard_changes">Discard Changes</string>
+    <string name="reset_pref">Reset</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_shape">Select Shape</string>
+    <string name="select_color">Select Color</string>
+    <string name="num_indicator">Turn on numerical indicator</string>
+    <string name="enter_email">Enter email address</string>
+    <string name="enter_subject">Enter subject</string>
+    <string name="enter_msg">Enter message</string>
+    <string name="send">Send</string>
+    <string name="send_desc">Send message button</string>
+  
+    <string name="confirm_deletion">Confirm deletion of account:</string>
+    <string name="reset_pass">Reset Password</string>
+    <string name="logout">Logout</string>
+    <string name="logout_fail">Logout Failed</string>
+    <string name="logout_s">Logout Successful</string>
+    <string name="delete_acc">Delete Account</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="reenter_pass">Reenter password</string>
+    <string name="patch_notes">View Patch Notes</string>
+    <string name="report_bug">Report Bug</string>
+    <string name="logout_check">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="credential_error">Credentials entered are not valid.</string>
+    <string name="pass_match">Passwords do not match.</string>
+    <string name="email_valid">Email entered is not this account.</string>
+    <string name="acc_delete_confirm">Account Successfully Deleted.</string>
+
+
+
+
+
+    <!-- Bug Report Text -->
+    <string name="bug_type">Bug Type</string>
+    <string name="bug1">Camera Capture</string>
+    <string name="bug2">Inventory</string>
+    <string name="bug3">Adding Tags</string>
+    <string name="bug4">Resetting Password</string>
+    <string name="bug5">Contacting Pillventory</string>
+    <string name="bug6">Logging Out</string>
+    <string name="bug7">Other</string>
+    <string name="verify_title">Verify Email</string>
+
+    <!-- FAQ Text -->
+    <string name="q1">How do I reset my password?</string>
+    <string name="a1">Go to Settings tab, then click Profile Settings, and then click Reset Password. Enter new password twice and click Reset Password.</string>
+    <string name="q2">How do I count pills using the app?</string>
+    <string name="a2">Go to the Camera tab located in the middle at the bottom and point your camera at the pills. Take a picture and your pills will be counted.</string>
+    <string name="q3">How do I change the color of the pill indicator?</string>
+    <string name="a3">Go to the settings menu within the app. Click Camera Settings. Select your desired color and click Save at the bottom.</string>
+    <string name="q4">How do I see my previous counts?</string>
+    <string name="a4">Navigate to the Inventory tab in the app located at the bottom left. Here, you\'ll find a chronological list of all your recorded pill counts.</string>
+    <string name="q5">Where can I sort my pill counts?</string>
+    <string name="a5">Simply go to the Sort option in the Inventory tab to sort by parameters such as date, count, or tag. </string>
+    <string name="Tag_Screen">Tag Screen</string>
+    <string name="add_tag_title">Add Tags</string>
+    <string name="set_alarm_title">Set Alarm</string>
+    <string name="Reset_Password">Reset Password</string>
+    <string name="reset_pass_title">Reset Password</string>
+</resources>

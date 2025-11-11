@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppTest" parent="android:Theme.Material.Light.NoActionBar" />
+
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+
+        <!-- Set the splash screen background -->
+        <item name="windowSplashScreenBackground">@color/purple_m</item>
+
+        <!-- Use windowSplashScreenAnimatedIcon to add drawable -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/pill_launcher_foreground</item>
+
+        <!-- Required for animated icons -->
+        <item name="windowSplashScreenAnimationDuration">2000</item>
+
+        <!-- Set the theme of the Activity that directly follows the splash screen -->
+        <item name="postSplashScreenTheme">@style/Theme.AppTest</item>
+
+    </style>
+</resources>
